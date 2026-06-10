@@ -1,0 +1,6 @@
+# Core
+numpy
+opencv-python
+
+# CoppeliaSim remote API (ZeroMQ). Install with: pip install coppeliasim-zmqremoteapi-client
+coppeliasim-zmqremoteapi-client
